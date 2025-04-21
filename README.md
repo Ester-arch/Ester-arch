@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hola 👋 
 
-<!--
-**Ester-arch/Ester-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante en el Tecnológico de Costa Rica interesada en el desarrollo web y el análisis de datos.Actualmente estoy aprendiendo Python y R , SQL , Power BI 
 
-Here are some ideas to get you started:
+Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Python (aprendiendo)
+
+ SQL(principiante)
+
+ Power BI
+
+ R y RStudio
+
+Proyectos
+
+
+Contacto
+alvaradoester727@gmail.com
